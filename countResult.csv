@@ -1,0 +1,10 @@
+Field,count,BasedField,BasedField_count,Percent
+isGot_count,3048,count,1,304800.00%
+isNotGot_count,2767,count,1,276700.00%
+numOfunSolution,1911,isNotGot_count,2767,69.06%
+numOfTimeOut,856,isNotGot_count,2767,30.94%
+numOfCountryPathNotExists,4902,numOfunSolution,1911,12.14%
+numOfRegionPathNotExists,1679,numOfunSolution,1911,87.86%
+numOfCountryExceedOne_count,1716,isNotGot_count,2767,62.02%
+numOfCountryEqualOne_count,4902,isNotGot_count,2767,177.16%
+numOfCountryEqualOne_count,"Counter({28: 371, 2: 233, 11: 101, 23: 89, 9: 80, 41: 31, 31: 25, 18: 23, 27: 18, 22: 13, 39: 11, 37: 8, 35: 8, 25: 8, 19: 6, 42: 5, 8: 5, 24: 4, 17: 4, 5: 2, 3: 1, 71: 1, 65: 1, 50: 1, 49: 1, 36: 1})",None,None,None
